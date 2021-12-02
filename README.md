@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @mrSolutionist
+- 💞️ I’m a self taught iOS developer
 - 👀 I’m interested in Artificial Intelligence and emotional Robots
 - 🌱 I’m currently learning python and Django
 - 💞️ I’m looking to collaborate on self driving car projects
