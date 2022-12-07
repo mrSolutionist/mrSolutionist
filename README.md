@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @mrSolutionist
 - 💞️ I’m a self taught iOS developer
 - 👀 I’m interested in Artificial Intelligence and emotional Robots
-- 🌱 I’m currently learning python and Django
+- 🌱 I’m currently working on  swiftUI.
+- 🌱 I’m currently learning flutter and react native
 - 💞️ I’m looking to collaborate on self driving car projects
 - 📫 How to reach me :
 7012655068
